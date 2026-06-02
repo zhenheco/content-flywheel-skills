@@ -1,0 +1,20 @@
+# Content Flywheel — Content Matrix (template)
+# Content pillars and their cluster topics. Weights bias topic selection;
+# the Feedback phase adjusts them from real analytics.
+
+pillars:
+  - id: "how-to"
+    weight: 0.4
+    cluster_topics:
+      - "How to do X step by step"
+      - "Common X mistakes and fixes"
+  - id: "comparison"
+    weight: 0.3
+    cluster_topics:
+      - "X vs Y: which to choose"
+      - "Best tools for X"
+  - id: "thought-leadership"
+    weight: 0.3
+    cluster_topics:
+      - "The future of X"
+      - "Why X matters now"

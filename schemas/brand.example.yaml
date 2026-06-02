@@ -1,0 +1,55 @@
+# Content Flywheel — Brand Configuration (template)
+# Copy to brand.yaml and fill in your own values. All values below are placeholders.
+
+name: "Your Brand"
+domain: "example.com"
+tagline: "One-line value proposition"
+language: "en"            # primary content language, e.g. en, zh-Hant, ja
+
+site:
+  base_url: "https://example.com"
+  blog_url_prefix: "/blog"                 # article path prefix (include locale if used)
+  homepage_path: "/"
+  internal_link_format: "{base_url}{blog_url_prefix}/{slug}"
+  link_validation:
+    enabled: true
+    check_before_publish: true             # HTTP HEAD every link before publishing
+    fail_on_404: true
+
+positioning:
+  audience: "Who you write for"
+  tone: ["clear", "practical", "evidence-led"]
+  topics: ["your core topics"]
+  avoid_topics: ["off-brand topics"]
+
+# Author entities power Article.author JSON-LD + E-E-A-T. Each article's frontmatter
+# `author` must match an id here. external_profiles render to schema.org sameAs.
+authors:
+  - id: "jane-doe"
+    name: "Jane Doe"
+    type: "Person"            # prefer Person (real human experience) over Organization
+    bio: "Short bio establishing real, first-hand expertise."
+    credentials:
+      - "Relevant credential or years of experience"
+    external_profiles:
+      linkedin: "https://www.linkedin.com/in/example"
+      website: "https://example.com/about"
+
+# Optional analytics integration (drives topic selection + feedback)
+analytics:
+  provider: "ga4"           # or your analytics of choice
+  property_id: "YOUR_PROPERTY_ID"
+  enabled: false
+
+# Internationalization (set enabled: true to run the translation step)
+i18n:
+  enabled: false
+  primary_lang: "en"
+  langs: []                 # e.g. ["en", "es", "ja"]
+publishing:
+  lang_subdir: false        # write localized output under /<lang>/ subdirectories
+
+# Autonomy: how much runs without a human (see SKILL.md "Trust score")
+trust_score:
+  current: 0.50
+  auto_publish_at: 0.85
