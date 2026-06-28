@@ -39,11 +39,11 @@ Một **điểm tin cậy** (trust score) quyết định mức độ tự chủ
 
 ## Các khung GEO/SEO
 
-Chất lượng đầu ra đến từ các khung phương pháp, không phải từ cảm tính. Xem [`frameworks/`](frameworks/):
+Chất lượng đầu ra đến từ các khung phương pháp, không phải từ cảm tính. Xem [`frameworks/`](../frameworks/):
 
-- **[Kỹ thuật GEO](frameworks/geo-techniques.md)** — tối ưu hóa định nghĩa (đặt thuật ngữ lên đầu, 25–50 từ, có thể trích dẫn như một câu trả lời độc lập), các phát biểu có thể trích dẫn (số liệu thống kê/dữ kiện/so sánh), tín hiệu uy tín, cấu trúc Hỏi & Đáp, và mật độ dữ kiện để các generative engine trích dẫn bạn.
-- **[Danh sách kiểm tra viết SEO](frameworks/seo-writing-checklist.md)** — đặt từ khóa, khớp ý định tìm kiếm, độ dễ đọc, liên kết nội bộ/bên ngoài, và nhắm tới featured snippet.
-- **[Các chiều CORE-EEAT](frameworks/core-eeat-dimensions.md)** — một cổng xuất bản theo Experience / Expertise / Authoritativeness / Trustworthiness (cộng thêm tính toàn diện, tính nguyên bản, độ dễ đọc, bằng chứng).
+- **[Kỹ thuật GEO](../frameworks/geo-techniques.md)** — tối ưu hóa định nghĩa (đặt thuật ngữ lên đầu, 25–50 từ, có thể trích dẫn như một câu trả lời độc lập), các phát biểu có thể trích dẫn (số liệu thống kê/dữ kiện/so sánh), tín hiệu uy tín, cấu trúc Hỏi & Đáp, và mật độ dữ kiện để các generative engine trích dẫn bạn.
+- **[Danh sách kiểm tra viết SEO](../frameworks/seo-writing-checklist.md)** — đặt từ khóa, khớp ý định tìm kiếm, độ dễ đọc, liên kết nội bộ/bên ngoài, và nhắm tới featured snippet.
+- **[Các chiều CORE-EEAT](../frameworks/core-eeat-dimensions.md)** — một cổng xuất bản theo Experience / Expertise / Authoritativeness / Trustworthiness (cộng thêm tính toàn diện, tính nguyên bản, độ dễ đọc, bằng chứng).
 
 ---
 
@@ -74,6 +74,6 @@ Kho lưu trữ này là **phương pháp mã nguồn mở**. Nếu bạn muốn 
 ## Ghi nhận & Giấy phép
 
 - Các khung chất lượng nội dung **CORE-EEAT** và độ tin cậy miền **CITE** được điều chỉnh từ [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Xin cảm ơn.
-- Được cấp phép theo **Apache-2.0** — xem [LICENSE](LICENSE).
+- Được cấp phép theo **Apache-2.0** — xem [LICENSE](../LICENSE).
 
 Hoan nghênh đóng góp. Hãy mở một issue hoặc PR.

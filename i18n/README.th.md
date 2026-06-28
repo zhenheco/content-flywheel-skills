@@ -1,6 +1,6 @@
+<!-- LANGS:th -->
 > Thai. [English](../README.md)
 
-<!-- LANGS:en -->
 # Content Flywheel — ทักษะการผลิตเนื้อหา SEO และ GEO
 
 **ระเบียบวิธีการผลิตเนื้อหาแบบเปิดสำหรับ AI agent** ค้นคว้าหัวข้อ วางแผนด้วยโมเดลที่มีการให้เหตุผลแข็งแกร่งที่สุด ร่างเนื้อหา ลบกลิ่นอาย AI ออก รันด่านตรวจคุณภาพ GEO/SEO กระจายต่อไปยังโซเชียล เผยแพร่ และป้อนข้อมูลเชิงวิเคราะห์กลับเข้าสู่รอบถัดไป — ในรูปแบบทักษะที่นำกลับมาใช้ซ้ำได้สำหรับ Claude Code, Cursor, Codex CLI, Gemini CLI และ agent ใดก็ตามที่โหลดทักษะแบบ Markdown ได้
@@ -39,11 +39,11 @@ Research → Plan → Draft → De-AI → GEO/SEO Quality Gate → Publish → F
 
 ## เฟรมเวิร์ก GEO/SEO
 
-คุณภาพของผลลัพธ์มาจากเฟรมเวิร์ก ไม่ใช่จากความรู้สึก ดูได้ที่ [`frameworks/`](frameworks/):
+คุณภาพของผลลัพธ์มาจากเฟรมเวิร์ก ไม่ใช่จากความรู้สึก ดูได้ที่ [`frameworks/`](../frameworks/):
 
-- **[GEO techniques](frameworks/geo-techniques.md)** — การปรับแต่งคำนิยาม (ขึ้นต้นด้วยคำศัพท์ ความยาว 25–50 คำ อ้างอิงได้ในฐานะคำตอบที่สมบูรณ์ในตัวเอง) ข้อความที่ยกไปอ้างได้ (สถิติ/ข้อเท็จจริง/การเปรียบเทียบ) สัญญาณความน่าเชื่อถือ โครงสร้างถาม-ตอบ และความหนาแน่นของข้อเท็จจริง เพื่อให้ generative engine อ้างถึงคุณ
-- **[SEO writing checklist](frameworks/seo-writing-checklist.md)** — การวางคีย์เวิร์ด การจับคู่เจตนาของการค้นหา ความอ่านง่าย การลิงก์ภายใน/ภายนอก และการเล็งเป้าหมาย featured snippet
-- **[CORE-EEAT dimensions](frameworks/core-eeat-dimensions.md)** — ด่านเผยแพร่ตามมิติ Experience / Expertise / Authoritativeness / Trustworthiness (รวมถึงความครอบคลุม ความเป็นต้นฉบับ ความอ่านง่าย และหลักฐาน)
+- **[GEO techniques](../frameworks/geo-techniques.md)** — การปรับแต่งคำนิยาม (ขึ้นต้นด้วยคำศัพท์ ความยาว 25–50 คำ อ้างอิงได้ในฐานะคำตอบที่สมบูรณ์ในตัวเอง) ข้อความที่ยกไปอ้างได้ (สถิติ/ข้อเท็จจริง/การเปรียบเทียบ) สัญญาณความน่าเชื่อถือ โครงสร้างถาม-ตอบ และความหนาแน่นของข้อเท็จจริง เพื่อให้ generative engine อ้างถึงคุณ
+- **[SEO writing checklist](../frameworks/seo-writing-checklist.md)** — การวางคีย์เวิร์ด การจับคู่เจตนาของการค้นหา ความอ่านง่าย การลิงก์ภายใน/ภายนอก และการเล็งเป้าหมาย featured snippet
+- **[CORE-EEAT dimensions](../frameworks/core-eeat-dimensions.md)** — ด่านเผยแพร่ตามมิติ Experience / Expertise / Authoritativeness / Trustworthiness (รวมถึงความครอบคลุม ความเป็นต้นฉบับ ความอ่านง่าย และหลักฐาน)
 
 ---
 
@@ -74,6 +74,6 @@ repo นี้คือ **ระเบียบวิธีแบบเปิด
 ## เครดิตและสัญญาอนุญาต
 
 - เฟรมเวิร์ก **CORE-EEAT** ด้านคุณภาพเนื้อหา และ **CITE** ด้านความน่าเชื่อถือของโดเมน ดัดแปลงมาจาก [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0) ขอบคุณครับ
-- อยู่ภายใต้สัญญาอนุญาต **Apache-2.0** — ดูที่ [LICENSE](LICENSE)
+- อยู่ภายใต้สัญญาอนุญาต **Apache-2.0** — ดูที่ [LICENSE](../LICENSE)
 
 ยินดีรับการมีส่วนร่วม เปิด issue หรือ PR ได้เลย

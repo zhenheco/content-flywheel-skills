@@ -39,11 +39,11 @@ Un **score de confiance** détermine le degré d'autonomie de chaque exécution 
 
 ## Cadres GEO/SEO
 
-La qualité du résultat provient de cadres méthodiques, pas de l'intuition. Voir [`frameworks/`](frameworks/) :
+La qualité du résultat provient de cadres méthodiques, pas de l'intuition. Voir [`frameworks/`](../frameworks/) :
 
-- **[Techniques GEO](frameworks/geo-techniques.md)** — optimisation des définitions (terme en premier, 25 à 50 mots, citable comme réponse autonome), affirmations citables (statistiques/faits/comparaisons), signaux d'autorité, structure questions-réponses, et densité factuelle pour que les moteurs génératifs vous citent.
-- **[Liste de contrôle de rédaction SEO](frameworks/seo-writing-checklist.md)** — placement des mots-clés, correspondance avec l'intention de recherche, lisibilité, maillage interne/externe, et ciblage des extraits optimisés (featured snippets).
-- **[Dimensions CORE-EEAT](frameworks/core-eeat-dimensions.md)** — une porte de publication Expérience / Expertise / Autorité / Fiabilité (E-E-A-T) (plus exhaustivité, originalité, lisibilité, preuves).
+- **[Techniques GEO](../frameworks/geo-techniques.md)** — optimisation des définitions (terme en premier, 25 à 50 mots, citable comme réponse autonome), affirmations citables (statistiques/faits/comparaisons), signaux d'autorité, structure questions-réponses, et densité factuelle pour que les moteurs génératifs vous citent.
+- **[Liste de contrôle de rédaction SEO](../frameworks/seo-writing-checklist.md)** — placement des mots-clés, correspondance avec l'intention de recherche, lisibilité, maillage interne/externe, et ciblage des extraits optimisés (featured snippets).
+- **[Dimensions CORE-EEAT](../frameworks/core-eeat-dimensions.md)** — une porte de publication Expérience / Expertise / Autorité / Fiabilité (E-E-A-T) (plus exhaustivité, originalité, lisibilité, preuves).
 
 ---
 
@@ -74,6 +74,6 @@ Ce dépôt est la **méthodologie ouverte**. Si vous préférez disposer d'une *
 ## Crédits et licence
 
 - Les cadres de qualité de contenu **CORE-EEAT** et de confiance de domaine **CITE** sont adaptés de [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Merci.
-- Sous licence **Apache-2.0** — voir [LICENSE](LICENSE).
+- Sous licence **Apache-2.0** — voir [LICENSE](../LICENSE).
 
 Les contributions sont les bienvenues. Ouvrez une issue ou une PR.

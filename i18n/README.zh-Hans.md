@@ -39,11 +39,11 @@ Research → Plan → Draft → De-AI → GEO/SEO Quality Gate → Publish → F
 
 ## GEO/SEO 框架
 
-输出的质量来自框架，而非凭感觉。参见 [`frameworks/`](frameworks/)：
+输出的质量来自框架，而非凭感觉。参见 [`frameworks/`](../frameworks/)：
 
-- **[GEO techniques](frameworks/geo-techniques.md)** —— 定义优化（术语先行，25–50 词，可作为独立答案被引用）、可引用陈述（统计数据/事实/对比）、权威信号、Q&A 结构，以及事实密度，让生成式引擎愿意引用你。
-- **[SEO writing checklist](frameworks/seo-writing-checklist.md)** —— 关键词布局、搜索意图匹配、可读性、内部/外部链接，以及精选摘要（featured snippet）定位。
-- **[CORE-EEAT dimensions](frameworks/core-eeat-dimensions.md)** —— 一道 Experience / Expertise / Authoritativeness / Trustworthiness 的发布关卡（外加全面性、原创性、可读性、证据）。
+- **[GEO techniques](../frameworks/geo-techniques.md)** —— 定义优化（术语先行，25–50 词，可作为独立答案被引用）、可引用陈述（统计数据/事实/对比）、权威信号、Q&A 结构，以及事实密度，让生成式引擎愿意引用你。
+- **[SEO writing checklist](../frameworks/seo-writing-checklist.md)** —— 关键词布局、搜索意图匹配、可读性、内部/外部链接，以及精选摘要（featured snippet）定位。
+- **[CORE-EEAT dimensions](../frameworks/core-eeat-dimensions.md)** —— 一道 Experience / Expertise / Authoritativeness / Trustworthiness 的发布关卡（外加全面性、原创性、可读性、证据）。
 
 ---
 
@@ -74,6 +74,6 @@ npx skills add zhenheco/content-flywheel-skills
 ## 致谢与许可
 
 - **CORE-EEAT** 内容质量框架和 **CITE** 域名信任框架改编自 [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)（Apache-2.0）。感谢。
-- 采用 **Apache-2.0** 许可——参见 [LICENSE](LICENSE)。
+- 采用 **Apache-2.0** 许可——参见 [LICENSE](../LICENSE)。
 
 欢迎贡献。请开 issue 或 PR。

@@ -39,11 +39,11 @@ Research → Plan → Draft → De-AI → GEO/SEO Quality Gate → Publish → F
 
 ## GEO/SEO フレームワーク
 
-出力の品質は、雰囲気ではなくフレームワークから生まれます。[`frameworks/`](frameworks/) を参照してください。
+出力の品質は、雰囲気ではなくフレームワークから生まれます。[`frameworks/`](../frameworks/) を参照してください。
 
-- **[GEO techniques](frameworks/geo-techniques.md)** — 定義の最適化（用語を先頭に、25〜50 語、単独の回答として引用可能）、引用に値する記述（統計／事実／比較）、権威性のシグナル、Q&A 構造、そして生成エンジンがあなたを引用するための事実密度。
-- **[SEO writing checklist](frameworks/seo-writing-checklist.md)** — キーワードの配置、検索意図との一致、可読性、内部／外部リンク、強調スニペットのターゲティング。
-- **[CORE-EEAT dimensions](frameworks/core-eeat-dimensions.md)** — Experience / Expertise / Authoritativeness / Trustworthiness の公開ゲート（加えて網羅性、独自性、可読性、エビデンス）。
+- **[GEO techniques](../frameworks/geo-techniques.md)** — 定義の最適化（用語を先頭に、25〜50 語、単独の回答として引用可能）、引用に値する記述（統計／事実／比較）、権威性のシグナル、Q&A 構造、そして生成エンジンがあなたを引用するための事実密度。
+- **[SEO writing checklist](../frameworks/seo-writing-checklist.md)** — キーワードの配置、検索意図との一致、可読性、内部／外部リンク、強調スニペットのターゲティング。
+- **[CORE-EEAT dimensions](../frameworks/core-eeat-dimensions.md)** — Experience / Expertise / Authoritativeness / Trustworthiness の公開ゲート（加えて網羅性、独自性、可読性、エビデンス）。
 
 ---
 
@@ -74,6 +74,6 @@ npx skills add zhenheco/content-flywheel-skills
 ## クレジット＆ライセンス
 
 - **CORE-EEAT** コンテンツ品質フレームワークと **CITE** ドメイン信頼性フレームワークは、[aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)（Apache-2.0）を基に改変しています。ありがとうございます。
-- **Apache-2.0** の下でライセンスされています — [LICENSE](LICENSE) を参照してください。
+- **Apache-2.0** の下でライセンスされています — [LICENSE](../LICENSE) を参照してください。
 
 コントリビューション歓迎です。issue または PR を開いてください。

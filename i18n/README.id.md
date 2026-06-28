@@ -39,11 +39,11 @@ Sebuah **skor kepercayaan** menentukan seberapa otonom setiap proses dijalankan 
 
 ## Kerangka Kerja GEO/SEO
 
-Kualitas keluaran berasal dari kerangka kerja, bukan dari perasaan. Lihat [`frameworks/`](frameworks/):
+Kualitas keluaran berasal dari kerangka kerja, bukan dari perasaan. Lihat [`frameworks/`](../frameworks/):
 
-- **[Teknik GEO](frameworks/geo-techniques.md)** — optimasi definisi (istilah dulu, 25–50 kata, dapat dikutip sebagai jawaban berdiri sendiri), pernyataan yang dapat dikutip (statistik/fakta/perbandingan), sinyal otoritas, struktur Tanya Jawab, dan kepadatan faktual agar mesin generatif mengutip Anda.
-- **[Daftar periksa penulisan SEO](frameworks/seo-writing-checklist.md)** — penempatan kata kunci, kecocokan intensi pencarian, keterbacaan, penautan internal/eksternal, dan penargetan cuplikan unggulan (featured snippet).
-- **[Dimensi CORE-EEAT](frameworks/core-eeat-dimensions.md)** — gerbang penerbitan Experience / Expertise / Authoritativeness / Trustworthiness (ditambah kelengkapan, orisinalitas, keterbacaan, bukti).
+- **[Teknik GEO](../frameworks/geo-techniques.md)** — optimasi definisi (istilah dulu, 25–50 kata, dapat dikutip sebagai jawaban berdiri sendiri), pernyataan yang dapat dikutip (statistik/fakta/perbandingan), sinyal otoritas, struktur Tanya Jawab, dan kepadatan faktual agar mesin generatif mengutip Anda.
+- **[Daftar periksa penulisan SEO](../frameworks/seo-writing-checklist.md)** — penempatan kata kunci, kecocokan intensi pencarian, keterbacaan, penautan internal/eksternal, dan penargetan cuplikan unggulan (featured snippet).
+- **[Dimensi CORE-EEAT](../frameworks/core-eeat-dimensions.md)** — gerbang penerbitan Experience / Expertise / Authoritativeness / Trustworthiness (ditambah kelengkapan, orisinalitas, keterbacaan, bukti).
 
 ---
 
@@ -74,6 +74,6 @@ Repo ini adalah **metodologi terbuka**. Jika Anda lebih memilih **API terkelola 
 ## Kredit & Lisensi
 
 - Kerangka kerja mutu konten **CORE-EEAT** dan kepercayaan domain **CITE** diadaptasi dari [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Terima kasih.
-- Dilisensikan di bawah **Apache-2.0** — lihat [LICENSE](LICENSE).
+- Dilisensikan di bawah **Apache-2.0** — lihat [LICENSE](../LICENSE).
 
 Kontribusi dipersilakan. Buka issue atau PR.

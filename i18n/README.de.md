@@ -39,11 +39,11 @@ Ein **Trust Score** entscheidet, wie autonom jeder Durchlauf ist — von „bei 
 
 ## GEO/SEO-Frameworks
 
-Die Qualität der Ausgabe entsteht durch Frameworks, nicht durch Bauchgefühl. Siehe [`frameworks/`](frameworks/):
+Die Qualität der Ausgabe entsteht durch Frameworks, nicht durch Bauchgefühl. Siehe [`frameworks/`](../frameworks/):
 
-- **[GEO-Techniken](frameworks/geo-techniques.md)** — Definitionsoptimierung (Begriff zuerst, 25–50 Wörter, als eigenständige Antwort zitierbar), zitierfähige Aussagen (Statistiken/Fakten/Vergleiche), Autoritätssignale, Q&A-Struktur und faktische Dichte, damit generative Engines dich zitieren.
-- **[SEO-Schreib-Checkliste](frameworks/seo-writing-checklist.md)** — Keyword-Platzierung, Übereinstimmung mit der Suchintention, Lesbarkeit, interne/externe Verlinkung und Targeting von Featured Snippets.
-- **[CORE-EEAT-Dimensionen](frameworks/core-eeat-dimensions.md)** — ein Veröffentlichungs-Gate für Experience / Expertise / Authoritativeness / Trustworthiness (plus Vollständigkeit, Originalität, Lesbarkeit, Belege).
+- **[GEO-Techniken](../frameworks/geo-techniques.md)** — Definitionsoptimierung (Begriff zuerst, 25–50 Wörter, als eigenständige Antwort zitierbar), zitierfähige Aussagen (Statistiken/Fakten/Vergleiche), Autoritätssignale, Q&A-Struktur und faktische Dichte, damit generative Engines dich zitieren.
+- **[SEO-Schreib-Checkliste](../frameworks/seo-writing-checklist.md)** — Keyword-Platzierung, Übereinstimmung mit der Suchintention, Lesbarkeit, interne/externe Verlinkung und Targeting von Featured Snippets.
+- **[CORE-EEAT-Dimensionen](../frameworks/core-eeat-dimensions.md)** — ein Veröffentlichungs-Gate für Experience / Expertise / Authoritativeness / Trustworthiness (plus Vollständigkeit, Originalität, Lesbarkeit, Belege).
 
 ---
 
@@ -74,6 +74,6 @@ Dieses Repo ist die **offene Methodik**. Wenn du lieber eine **automatisierte, g
 ## Danksagungen & Lizenz
 
 - Die Frameworks **CORE-EEAT** für Content-Qualität und **CITE** für Domain-Trust sind adaptiert von [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Vielen Dank.
-- Lizenziert unter **Apache-2.0** — siehe [LICENSE](LICENSE).
+- Lizenziert unter **Apache-2.0** — siehe [LICENSE](../LICENSE).
 
 Beiträge sind willkommen. Eröffne ein Issue oder einen PR.

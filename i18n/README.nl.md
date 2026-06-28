@@ -39,11 +39,11 @@ Een **vertrouwensscore** bepaalt hoe autonoom elke run is — van "pauzeer bij e
 
 ## GEO/SEO-frameworks
 
-De kwaliteit van de output komt voort uit frameworks, niet uit gevoel. Zie [`frameworks/`](frameworks/):
+De kwaliteit van de output komt voort uit frameworks, niet uit gevoel. Zie [`frameworks/`](../frameworks/):
 
-- **[GEO-technieken](frameworks/geo-techniques.md)** — definitie-optimalisatie (term eerst, 25–50 woorden, citeerbaar als een op zichzelf staand antwoord), citeerbare uitspraken (statistieken/feiten/vergelijkingen), autoriteitssignalen, vraag-en-antwoordstructuur en feitelijke dichtheid zodat generatieve engines je citeren.
-- **[SEO-schrijfchecklist](frameworks/seo-writing-checklist.md)** — plaatsing van zoekwoorden, afstemming op zoekintentie, leesbaarheid, interne/externe links en het richten op featured snippets.
-- **[CORE-EEAT-dimensies](frameworks/core-eeat-dimensions.md)** — een publicatiepoort op basis van Experience / Expertise / Authoritativeness / Trustworthiness (plus volledigheid, originaliteit, leesbaarheid, bewijs).
+- **[GEO-technieken](../frameworks/geo-techniques.md)** — definitie-optimalisatie (term eerst, 25–50 woorden, citeerbaar als een op zichzelf staand antwoord), citeerbare uitspraken (statistieken/feiten/vergelijkingen), autoriteitssignalen, vraag-en-antwoordstructuur en feitelijke dichtheid zodat generatieve engines je citeren.
+- **[SEO-schrijfchecklist](../frameworks/seo-writing-checklist.md)** — plaatsing van zoekwoorden, afstemming op zoekintentie, leesbaarheid, interne/externe links en het richten op featured snippets.
+- **[CORE-EEAT-dimensies](../frameworks/core-eeat-dimensions.md)** — een publicatiepoort op basis van Experience / Expertise / Authoritativeness / Trustworthiness (plus volledigheid, originaliteit, leesbaarheid, bewijs).
 
 ---
 
@@ -74,6 +74,6 @@ Deze repo is de **open methodologie**. Als je liever een **geautomatiseerde, geh
 ## Dankbetuigingen & licentie
 
 - De **CORE-EEAT**-frameworks voor contentkwaliteit en **CITE**-frameworks voor domeinvertrouwen zijn aangepast van [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Bedankt.
-- Gelicentieerd onder **Apache-2.0** — zie [LICENSE](LICENSE).
+- Gelicentieerd onder **Apache-2.0** — zie [LICENSE](../LICENSE).
 
 Bijdragen zijn welkom. Open een issue of PR.

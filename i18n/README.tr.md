@@ -39,11 +39,11 @@ Bir **güven puanı (trust score)**, her çalıştırmanın ne kadar otonom oldu
 
 ## GEO/SEO Çerçeveleri
 
-Çıktının kalitesi sezgilerden değil, çerçevelerden gelir. Bkz. [`frameworks/`](frameworks/):
+Çıktının kalitesi sezgilerden değil, çerçevelerden gelir. Bkz. [`frameworks/`](../frameworks/):
 
-- **[GEO teknikleri](frameworks/geo-techniques.md)** — tanım optimizasyonu (terim önce, 25–50 kelime, bağımsız bir yanıt olarak alıntılanabilir), alıntılanabilir ifadeler (istatistikler/gerçekler/karşılaştırmalar), otorite sinyalleri, Soru-Cevap yapısı ve üretken motorların sizi alıntılaması için olgusal yoğunluk.
-- **[SEO yazım kontrol listesi](frameworks/seo-writing-checklist.md)** — anahtar kelime yerleşimi, arama amacı eşleşmesi, okunabilirlik, dahili/harici bağlantı kurma ve öne çıkan snippet hedefleme.
-- **[CORE-EEAT boyutları](frameworks/core-eeat-dimensions.md)** — bir Experience / Expertise / Authoritativeness / Trustworthiness yayımlama kapısı (ayrıca kapsamlılık, özgünlük, okunabilirlik, kanıt).
+- **[GEO teknikleri](../frameworks/geo-techniques.md)** — tanım optimizasyonu (terim önce, 25–50 kelime, bağımsız bir yanıt olarak alıntılanabilir), alıntılanabilir ifadeler (istatistikler/gerçekler/karşılaştırmalar), otorite sinyalleri, Soru-Cevap yapısı ve üretken motorların sizi alıntılaması için olgusal yoğunluk.
+- **[SEO yazım kontrol listesi](../frameworks/seo-writing-checklist.md)** — anahtar kelime yerleşimi, arama amacı eşleşmesi, okunabilirlik, dahili/harici bağlantı kurma ve öne çıkan snippet hedefleme.
+- **[CORE-EEAT boyutları](../frameworks/core-eeat-dimensions.md)** — bir Experience / Expertise / Authoritativeness / Trustworthiness yayımlama kapısı (ayrıca kapsamlılık, özgünlük, okunabilirlik, kanıt).
 
 ---
 
@@ -74,6 +74,6 @@ Bu depo **açık metodolojidir**. Bunun yerine **otomatik, barındırılan bir A
 ## Katkılar ve Lisans
 
 - **CORE-EEAT** içerik kalitesi ve **CITE** alan güveni çerçeveleri, [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0) projesinden uyarlanmıştır. Teşekkürler.
-- **Apache-2.0** altında lisanslanmıştır — bkz. [LICENSE](LICENSE).
+- **Apache-2.0** altında lisanslanmıştır — bkz. [LICENSE](../LICENSE).
 
 Katkılar memnuniyetle karşılanır. Bir issue veya PR açın.

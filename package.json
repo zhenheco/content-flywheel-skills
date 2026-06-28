@@ -1,0 +1,12 @@
+{
+  "name": "content-flywheel-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Dependency-free SEO/GEO content flywheel skill package validation.",
+  "scripts": {
+    "check": "python3 scripts/validate_skill.py && python3 -m unittest discover -s tests",
+    "lint": "python3 scripts/validate_skill.py",
+    "test": "python3 -m unittest discover -s tests"
+  },
+  "license": "Apache-2.0"
+}

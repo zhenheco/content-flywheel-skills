@@ -39,11 +39,11 @@ Research → Plan → Draft → De-AI → GEO/SEO Quality Gate → Publish → F
 
 ## GEO/SEO फ़्रेमवर्क
 
-आउटपुट की गुणवत्ता फ़्रेमवर्क से आती है, vibes से नहीं। देखें [`frameworks/`](frameworks/):
+आउटपुट की गुणवत्ता फ़्रेमवर्क से आती है, vibes से नहीं। देखें [`frameworks/`](../frameworks/):
 
-- **[GEO techniques](frameworks/geo-techniques.md)** — definition optimization (term-first, 25–50 शब्द, एक स्वतंत्र उत्तर के रूप में citable), quotable statements (स्टैट्स/तथ्य/तुलनाएं), authority signals, Q&A संरचना, और factual density ताकि generative engines आपको quote करें।
-- **[SEO writing checklist](frameworks/seo-writing-checklist.md)** — कीवर्ड प्लेसमेंट, search-intent मैच, पठनीयता, internal/external linking, और featured-snippet टार्गेटिंग।
-- **[CORE-EEAT dimensions](frameworks/core-eeat-dimensions.md)** — एक Experience / Expertise / Authoritativeness / Trustworthiness publish gate (साथ ही comprehensiveness, originality, readability, evidence)।
+- **[GEO techniques](../frameworks/geo-techniques.md)** — definition optimization (term-first, 25–50 शब्द, एक स्वतंत्र उत्तर के रूप में citable), quotable statements (स्टैट्स/तथ्य/तुलनाएं), authority signals, Q&A संरचना, और factual density ताकि generative engines आपको quote करें।
+- **[SEO writing checklist](../frameworks/seo-writing-checklist.md)** — कीवर्ड प्लेसमेंट, search-intent मैच, पठनीयता, internal/external linking, और featured-snippet टार्गेटिंग।
+- **[CORE-EEAT dimensions](../frameworks/core-eeat-dimensions.md)** — एक Experience / Expertise / Authoritativeness / Trustworthiness publish gate (साथ ही comprehensiveness, originality, readability, evidence)।
 
 ---
 
@@ -74,6 +74,6 @@ npx skills add zhenheco/content-flywheel-skills
 ## क्रेडिट्स और लाइसेंस
 
 - **CORE-EEAT** content-quality और **CITE** domain-trust फ़्रेमवर्क [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0) से अनुकूलित हैं। धन्यवाद।
-- **Apache-2.0** के तहत लाइसेंस प्राप्त — देखें [LICENSE](LICENSE)।
+- **Apache-2.0** के तहत लाइसेंस प्राप्त — देखें [LICENSE](../LICENSE)।
 
 योगदान का स्वागत है। एक issue या PR खोलें।

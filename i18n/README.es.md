@@ -39,11 +39,11 @@ Una **puntuación de confianza** decide cuán autónoma es cada ejecución — d
 
 ## Frameworks GEO/SEO
 
-La calidad del resultado proviene de frameworks, no de la intuición. Consulta [`frameworks/`](frameworks/):
+La calidad del resultado proviene de frameworks, no de la intuición. Consulta [`frameworks/`](../frameworks/):
 
-- **[GEO techniques](frameworks/geo-techniques.md)** — optimización de definiciones (término primero, 25–50 palabras, citable como respuesta autónoma), afirmaciones citables (estadísticas/hechos/comparaciones), señales de autoridad, estructura de preguntas y respuestas y densidad factual para que los motores generativos te citen.
-- **[SEO writing checklist](frameworks/seo-writing-checklist.md)** — colocación de palabras clave, coincidencia con la intención de búsqueda, legibilidad, enlazado interno/externo y orientación a los fragmentos destacados.
-- **[CORE-EEAT dimensions](frameworks/core-eeat-dimensions.md)** — una puerta de publicación de Experience / Expertise / Authoritativeness / Trustworthiness (más exhaustividad, originalidad, legibilidad y evidencia).
+- **[GEO techniques](../frameworks/geo-techniques.md)** — optimización de definiciones (término primero, 25–50 palabras, citable como respuesta autónoma), afirmaciones citables (estadísticas/hechos/comparaciones), señales de autoridad, estructura de preguntas y respuestas y densidad factual para que los motores generativos te citen.
+- **[SEO writing checklist](../frameworks/seo-writing-checklist.md)** — colocación de palabras clave, coincidencia con la intención de búsqueda, legibilidad, enlazado interno/externo y orientación a los fragmentos destacados.
+- **[CORE-EEAT dimensions](../frameworks/core-eeat-dimensions.md)** — una puerta de publicación de Experience / Expertise / Authoritativeness / Trustworthiness (más exhaustividad, originalidad, legibilidad y evidencia).
 
 ---
 
@@ -74,6 +74,6 @@ Este repositorio es la **metodología abierta**. Si prefieres tener una **API al
 ## Créditos y licencia
 
 - Los frameworks de calidad de contenido **CORE-EEAT** y de confianza de dominio **CITE** están adaptados de [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Gracias.
-- Licenciado bajo **Apache-2.0** — consulta [LICENSE](LICENSE).
+- Licenciado bajo **Apache-2.0** — consulta [LICENSE](../LICENSE).
 
 Las contribuciones son bienvenidas. Abre un issue o un PR.

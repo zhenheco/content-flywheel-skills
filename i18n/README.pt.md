@@ -39,11 +39,11 @@ Uma **pontuação de confiança** decide o grau de autonomia de cada execução 
 
 ## Frameworks de GEO/SEO
 
-A qualidade do resultado vem de frameworks, não de intuição. Veja [`frameworks/`](frameworks/):
+A qualidade do resultado vem de frameworks, não de intuição. Veja [`frameworks/`](../frameworks/):
 
-- **[Técnicas de GEO](frameworks/geo-techniques.md)** — otimização de definições (termo primeiro, 25–50 palavras, citáveis como resposta autônoma), afirmações citáveis (estatísticas/fatos/comparações), sinais de autoridade, estrutura de perguntas e respostas e densidade factual para que os motores generativos o citem.
-- **[Checklist de redação SEO](frameworks/seo-writing-checklist.md)** — posicionamento de palavras-chave, correspondência com a intenção de busca, legibilidade, links internos/externos e foco em featured snippets.
-- **[Dimensões CORE-EEAT](frameworks/core-eeat-dimensions.md)** — um portão de publicação de Experiência / Especialização / Autoridade / Confiabilidade (E-E-A-T) (além de abrangência, originalidade, legibilidade e evidências).
+- **[Técnicas de GEO](../frameworks/geo-techniques.md)** — otimização de definições (termo primeiro, 25–50 palavras, citáveis como resposta autônoma), afirmações citáveis (estatísticas/fatos/comparações), sinais de autoridade, estrutura de perguntas e respostas e densidade factual para que os motores generativos o citem.
+- **[Checklist de redação SEO](../frameworks/seo-writing-checklist.md)** — posicionamento de palavras-chave, correspondência com a intenção de busca, legibilidade, links internos/externos e foco em featured snippets.
+- **[Dimensões CORE-EEAT](../frameworks/core-eeat-dimensions.md)** — um portão de publicação de Experiência / Especialização / Autoridade / Confiabilidade (E-E-A-T) (além de abrangência, originalidade, legibilidade e evidências).
 
 ---
 
@@ -74,6 +74,6 @@ Este repositório é a **metodologia aberta**. Se você preferir uma **API autom
 ## Créditos e Licença
 
 - Os frameworks de qualidade de conteúdo **CORE-EEAT** e de confiança de domínio **CITE** são adaptados de [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (Apache-2.0). Obrigado.
-- Licenciado sob **Apache-2.0** — veja [LICENSE](LICENSE).
+- Licenciado sob **Apache-2.0** — veja [LICENSE](../LICENSE).
 
 Contribuições são bem-vindas. Abra uma issue ou PR.
